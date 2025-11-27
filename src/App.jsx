@@ -6,7 +6,7 @@ import Login from './components/Login';
 import Signup from './components/Signup';
 import HomePage from './components/HomePage';
 import Home from './components/Home';
-import AboutUs from "./components/AboutUs.jsx";
+import AboutUs from "./components/AboutUs";
 
 // Cart & Orders
 import Cart from './components/Cart';
