@@ -6,7 +6,7 @@ import Login from './components/Login';
 import Signup from './components/Signup';
 import HomePage from './components/HomePage';
 import Home from './components/Home';
-import AboutUs from "./components/AboutUs";
+import AboutUs from "./components/aboutUs";
 
 // Cart & Orders
 import Cart from './components/Cart';
