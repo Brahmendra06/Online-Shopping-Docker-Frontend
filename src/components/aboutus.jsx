@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../components/style.css";
 
-const AboutUs = () => {
+const aboutUs = () => {
   const items = [
     {
       link: "/chargers",
@@ -101,4 +101,4 @@ const AboutUs = () => {
   );
 };
 
-export default AboutUs;
+export default aboutUs;
